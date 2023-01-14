@@ -27,3 +27,6 @@ Next phase 📚👨🏻‍💻
 <br>
 <a href="https://contate.me/dev-fron-end" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 </div>
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Herivelto-Brito&layout=compact)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Herivelto-Brito&show_icons=true&theme=dracula)
