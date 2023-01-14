@@ -1,8 +1,10 @@
 ### Olá, sejam bem vindos! 👋🏼
 <br>
+Me chamo Herivelto Brito
+<br><br>
 ❤️ - Apaixonado por Tecnologia.
 <br><br>
-Me chamo Herivelto Brito, Sou um desenvolvedor Front-End.
+Sou um desenvolvedor Front-End.
 <br>
 Tenho conhecimentos nas seguintes tecnologias:
 <br><br>
