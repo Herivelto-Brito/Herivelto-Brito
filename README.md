@@ -1,18 +1,16 @@
 ### Olá, sejam bem vindos! 👋🏼
 <br>
-Me chamo Herivelto Brito
+Olá, sou Herivelto Brito, sou um Dev apaixonado por tecnologia! ❤️ 
 <br><br>
-❤️ - Apaixonado por Tecnologia.
-<br><br>
-Sou um desenvolvedor Front-End.
+Este é o espaço onde passo a maior parte do tempo onde a imaginação e a criatividade se transformam em código.
 <br>
-Tenho conhecimentos nas seguintes tecnologias:
+Linguagens e ferramentas:
 <br><br>
+<br><br>
+
 <div>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <br><br>
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <br><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> - Aprimorando conhecimentos
 </div>
 <hr>
@@ -22,11 +20,7 @@ Next phase 📚👨🏻‍💻
 </div>  
 <hr>
 <div> 
-<h2>Fale comigo por aqui:<h2>
+<h2>Conecte-se comigo:<h2>
   <a href="https://www.linkedin.com/in/h-brito" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<br>
 <a href="https://contate.me/dev-fron-end" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 </div>
-
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Herivelto-Brito&layout=compact)
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Herivelto-Brito&show_icons=true&theme=dracula)
