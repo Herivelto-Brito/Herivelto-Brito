@@ -7,12 +7,6 @@
 <br>
 Olá, sou Herivelto Brito, Desenvolvedor .Net! ❤️ 
 <br><br>
-Estou a 1 ano na caminhada da programação onde estudei de tudo um pouco mas foi com a linguagem C# que me identifiquei.
-Meus conhecimentos adquiridos até entao:
-<br><br>
-C# / .Net
-<br><br>
-<hr>
 Linguagens e ferramentas:
 <br><br>
 <div>
