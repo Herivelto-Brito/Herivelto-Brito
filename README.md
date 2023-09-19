@@ -1,25 +1,23 @@
-### Olá, sejam bem vindos! 👋🏼
-
-
-
-
-
+### Sejam bem vindos! 👋🏼
 <br>
-Olá, sou Herivelto Brito, Desenvolvedor .Net! ❤️ 
+Olá, sou Herivelto Brito, Desenvolvedor Front-End ❤️ 
+<br>
+Este é o espaço onde passo a maior parte do meu tempo onde a imaginação e a criatividade se transformam em código.
 <br><br>
 Linguagens e ferramentas:
 <br><br>
 <div>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CS.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/DotNet.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MongoDB.svg"> - 
-  📚👨🏻‍💻
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=js,html,css,react,git,github" />
+  </p>
 </div>
 <hr>
 <div> 
   <h2>Conecte-se comigo:<h2>
-  <a href="https://www.linkedin.com/in/h-brito" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-   badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <p align="center">
+    <a href="https://www.linkedin.com/in/h-brito/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+    <a href="https://www.instagram.com/s.velto/"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+  </p>
 </div>
 
  
