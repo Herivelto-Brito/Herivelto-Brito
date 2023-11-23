@@ -8,7 +8,7 @@ Linguagens e ferramentas:
 <br><br>
 <div>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=js,html,css,react,git,github" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,typescript,react,git,github" />
   </p>
 </div>
 <hr>
