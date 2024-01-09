@@ -1,7 +1,7 @@
 ### Sejam bem vindos! 👋🏼
 <br>
 Olá, sou Herivelto Brito, Desenvolvedor Front-End ❤️ 
-<br>
+<br><br>
 Este é o espaço onde passo a maior parte do meu tempo onde a imaginação e a criatividade se transformam em código.
 <br><br>
 Linguagens e ferramentas:
