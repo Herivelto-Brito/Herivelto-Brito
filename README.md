@@ -33,3 +33,5 @@
 </div>
 
 ###
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Herivelto-Brito&hide=contribs,prs)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Herivelto-Brito&layout=compact)
