@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">❤️ Apaixonado por código...<br>📚 Atualmente estou aprendendo... React...<br>🎯 Alcançar seus objetivos como Dev Front-End...</p>
+<p align="left">❤️ Apaixonado por código...<br>📚 Atualmente estou aprendendo... React...<br>🎯 Alcançar meus objetivos como Dev Front-End...</p>
 
 ###
 
