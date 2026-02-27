@@ -3,10 +3,10 @@
 ###
 
 <p align="left">
-🎯 Back-end Developer em formação | Apaixonado por tecnologia, aprendizado contínuo e criação de soluções eficientes.
+🎯 Back-end Developer em formação | Focado em Java, aprendizado contínuo e criação de soluções eficientes
 </p>
 <p align="left">
-📍 Migrando da área de manutenção mecânica para a área de desenvolvimento de software.
+📍 Migrando da área de manutenção mecânica para o desenvolvimento de software.
 </p>
 
 ###
@@ -15,7 +15,7 @@
 
 ###
 
-<p align="left">❤️ Apaixonado por código...<br>🔭 Atualmente estudando Desenvolvimento Back-end .NET<br>🌱 Aprendendo C#, SQL, APIs REST, Docker, Git/GitHub e boas práticas de arquitetura<br>🎓 Cursos em andamento: Formação .Net Developer (DIO)<br>💡 Interesses: Back-end, Microservices e Cloud <br>📈 Objetivo: Me tornar um Dev Back-end</p>
+<p align="left">❤️Apaixonado por tecnologia e pela construção de soluções através do código....<br>🔭 Iniciando estudos em Desenvolvimento Back-end com Java<br>🌱 Aprendendo Java, SQL, APIs REST, Spring Boot, Docker e boas práticas de arquitetura<br>🎓 Cursos em andamento: Batismo de Java - Java 10x<br>💡 Interesses: Back-end, Microservices e Cloud <br></p>
 
 ###
 
@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">Linguagens: C#<br>Banco de Dados: SQL Server, MySQL, MongoDB<br>Frameworks: .NET<br>Ferramentas: Git, GitHub, VS Code, IntelliJ, Docker</p>
+<p align="left">Linguagens: Java<br>Frameworks: Spring Boot<br>Ferramentas: Git, GitHub, VS Code, IntelliJ, Docker</p>
 <br>
 <p align="left">✍️ "A cada linha de código, um passo mais próximo do meu objetivo."</p>
 
